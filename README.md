@@ -1,4 +1,6 @@
-# Lenguajes
-optional
-https://chat.whatsapp.com/LQIkChriPl0AdX32BByRSV whats group
-
+#Lenguajes comerciales
+__________________________________________________
+whats group                                      -
+__________________________________________________
+https://chat.whatsapp.com/LQIkChriPl0AdX32BByRSV -
+__________________________________________________

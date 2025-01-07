@@ -1,5 +1,5 @@
 --------------------------------------------------
-# Lenguajes comerciales                          -
+Lenguajes comerciales                            -
 optional                                         -
 whats group                                      -
 --------------------------------------------------

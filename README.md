@@ -1,6 +1,3 @@
 Lenguajes comerciales
 __________________________________________________
-whats group                                      
-__________________________________________________
-https://chat.whatsapp.com/LQIkChriPl0AdX32BByRSV 
-__________________________________________________
+♪-Archivos de la app que hicimos en clase hoy uwu

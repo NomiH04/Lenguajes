@@ -1,6 +1,4 @@
-Lenguajes comerciales
-__________________________________________________
-whats group                                      
-__________________________________________________
-https://chat.whatsapp.com/LQIkChriPl0AdX32BByRSV 
-__________________________________________________
+Primera cosa que hizo el grupo #1
+----------------------------
+no juzguen los nombres que le pongo a los proyectos
+ademas esta el manual :D

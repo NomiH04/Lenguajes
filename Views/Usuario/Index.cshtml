@@ -1,0 +1,40 @@
+﻿@model List<Usuario>
+
+<div class="container mt-5">
+    <h1> Lista de Zaguates Pelones </h1>
+    <table class = "table table-bordered">
+        <thead>
+            <tr>
+                <th>Id Usuario</th>
+                <th>Nombre</th>
+                <th>Email</th>
+                <th>Clave</th>
+                <th>Estado</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var usuario in Model)
+            {
+                <tr>
+                    <td>@usuario.IdUsuario</td>
+                    <td>@usuario.Nombre</td>
+                    <td>@usuario.Email</td>
+                    <td>@usuario.Clave</td>
+                    @if(usuario.Estado == true)
+                    {
+                        <td>
+                            <span style="color: green;">Activo</span>
+                        </td>
+                    } 
+                    else
+                    {
+                        <td>
+                            <span style="color: red;">Inactivo</span>
+                        </td>
+                    }
+                    
+                </tr>
+            }
+        </tbody>
+</table>
+</div>

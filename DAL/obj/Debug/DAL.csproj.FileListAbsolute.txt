@@ -1,0 +1,18 @@
+C:\Lenguajes\semana 1\App\DAL\bin\Debug\DAL.dll
+C:\Lenguajes\semana 1\App\DAL\bin\Debug\DAL.pdb
+C:\Lenguajes\semana 1\App\DAL\bin\Debug\BLL.dll
+C:\Lenguajes\semana 1\App\DAL\bin\Debug\BLL.pdb
+C:\Lenguajes\semana 1\App\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Lenguajes\semana 1\App\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Lenguajes\semana 1\App\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Lenguajes\semana 1\App\DAL\obj\Debug\DAL.dll
+C:\Lenguajes\semana 1\App\DAL\obj\Debug\DAL.pdb
+C:\Users\Jeremi\Documents\awa\Lenguajes-14-01-2025\DAL\bin\Debug\DAL.dll
+C:\Users\Jeremi\Documents\awa\Lenguajes-14-01-2025\DAL\bin\Debug\DAL.pdb
+C:\Users\Jeremi\Documents\awa\Lenguajes-14-01-2025\DAL\bin\Debug\BLL.dll
+C:\Users\Jeremi\Documents\awa\Lenguajes-14-01-2025\DAL\bin\Debug\BLL.pdb
+C:\Users\Jeremi\Documents\awa\Lenguajes-14-01-2025\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Jeremi\Documents\awa\Lenguajes-14-01-2025\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jeremi\Documents\awa\Lenguajes-14-01-2025\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Jeremi\Documents\awa\Lenguajes-14-01-2025\DAL\obj\Debug\DAL.dll
+C:\Users\Jeremi\Documents\awa\Lenguajes-14-01-2025\DAL\obj\Debug\DAL.pdb

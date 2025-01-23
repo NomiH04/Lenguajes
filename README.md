@@ -1,6 +1,3 @@
-Lenguajes comerciales
-__________________________________________________
-whats group                                      
-__________________________________________________
-https://chat.whatsapp.com/LQIkChriPl0AdX32BByRSV 
-__________________________________________________
+app casi completa faltan 3 ventanas pero la mas fea esta hecha
+--------------------------------------------------------------
+despues lo hago cuando este completo aviso uwu
